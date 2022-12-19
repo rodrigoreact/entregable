@@ -4,7 +4,7 @@ FullStack React Academlo, 2022. Generación 21.
 Este trabajo considera los siguientes contenidos:
 
 Componentes y useState
-Consiste en:
+consiste en:
 
 Crear una app React
 Guardar este json: https://jsonblob.com/918261686465740800 en un archivo llamado quotes.json
